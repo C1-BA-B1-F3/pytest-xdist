@@ -15,8 +15,8 @@ from xdist.dsession import WorkerStatus
 from xdist.report import report_collection_diff
 from xdist.scheduler import EachScheduling
 from xdist.scheduler import LoadScheduling
-from xdist.scheduler import WorkStealingScheduling
 from xdist.scheduler import LoadScopeScheduling
+from xdist.scheduler import WorkStealingScheduling
 from xdist.workermanage import WorkerController
 
 
